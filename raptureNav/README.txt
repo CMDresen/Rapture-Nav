@@ -1,5 +1,9 @@
 RAPTURENAV by Christian Dresen
-Python file: raptureNav.py
+for Python 3.9.6
+
+## MAKE SURE YOU HAVE "PYGAME" AND "PILLOW" INSTALLED
+
+Main file: raptureNav.py
 
 DESC: This is a low-tech tool I made to help me visualize road trips, for an experimental roadtrip-centric TTRPG I was developing.
 It visualizes the 50 states, allows you to set waypoints and their descriptions, and allows you to connect them if there is a straight path.
