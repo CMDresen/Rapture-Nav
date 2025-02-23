@@ -23,3 +23,5 @@ The program automatically saves your data when you close it.
 To reset the data, go to SaveData\PinData and delete the entire contents of the folder.
 
 Happy travels!
+
+![me](https://github.com/CMDresen/Rapture-Nav/blob/40ca12c158a12fa3b824d60cd9f350b0f30480d7/raptureNav/images/Screenshot%202025-02-22%20234426.png)
